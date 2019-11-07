@@ -1,2 +1,2 @@
 const main = "WOW"
-console.log(main)
+console.log(main);
